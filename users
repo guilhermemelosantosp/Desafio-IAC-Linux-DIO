@@ -1,0 +1,14 @@
+#! /bin/bash
+
+echo "Criando usuarios no Sistema ..."
+
+useradd guest10 -c "Convidado" -s /bin/bash -m -p $(openssl passwd  Senha123)
+passwd guest10 -e
+
+useradd guest11 -c "Convidado" -s /bin/bash -m -p $(openssl passwd  Senha123)
+passwd guest11 -e
+
+useradd guest12 -c "Convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+passwd guest12 -e
+
+echo "Finalizado criação!!!"
