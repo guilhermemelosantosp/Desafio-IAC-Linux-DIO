@@ -117,6 +117,14 @@ chmod 770 /sec
 chmod 777 /publico
 ```
 
+## Demonstração
+
+<img src="script.gif">
+## Aprendizados
+
+Neste projeto, tive a oportunidade de esta aprofundando meu conhecimentos em linux, gerenciando contas , acessos e pasta de um servidor.
+
+
 ## Autor
 
 - [@guilhermemelosantosp](https://github.com/guilhermemelosantosp)
@@ -133,16 +141,6 @@ chmod 777 /publico
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/guilhermemelosantosp)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melosp/)
-
-
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
-
-
-## Aprendizados
-
-Neste projeto, tive a oportunidade de esta aprofundando meu conhecimentos em linux, gerenciando contas , acessos e pasta de um servidor.
 
 
 ## Feedback
